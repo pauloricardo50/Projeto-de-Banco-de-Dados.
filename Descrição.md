@@ -1,18 +1,19 @@
-Trabalho Banco de Dados - Evasão e Automação Assistência Estudantil
+TRABALHO BANCO DE DADOS - EVASÃO E AUTOMAÇÃO ASSISTÊNCIA ESTUDANTIL
 
-SUMPARIO:
-1 COMPONENTES:
+SUMÁRIO:
+
+1. COMPONENTES
 Antonio Carlos Lemos Junior antoniocarloslemosjunior@gmail.com
 Lucas Oliveira Garcia  lucasoliveira@live.com 
 Landerson Morais Alexandre 
 Paulo Ricardo Viana Ferreira paulo_ricardosf@outlook.com 
 
-
-2.INTRODUÇÃO E MOTIVAÇAO 
+2. INTRODUCAO E MOTIVAÇÃO
 
 O trabalho visa mapear as principais dificuldades dos alunos e também, amenizar o processo de inscrição da assistência estudantil.  
- 
-3.MINI-MUNDO 
+
+3. MINI MUNDO
+
  
 Um dos objetivos Acabar com as pilhas enormes de papeis no processo de entrada do aluno na assistência estudantil do campus. O projeto visa também economia de custos com xerox e menos circulação de papel.Avaliar os alunos com questionamentos, visando controlar e prever a evasão em cursos considerados de extrema dificuldade.  
 O projeto visa entender e compreender as dificuldades de um aluno que está com um provável pensamento de desistência do curso.  
