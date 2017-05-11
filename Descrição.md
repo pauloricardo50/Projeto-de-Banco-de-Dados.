@@ -37,17 +37,17 @@ Esta tabela deve conter todos os atributos do sistema e um mínimo de 10 linhas.
 ----------------------------
 
 
-# TRABALHO 01:  Título do Trabalho
-Trabalho desenvolvido durante a disciplina de BD
+# TRABALHO 01: EVASÃO E AUTOMAÇÃO ASSISTÊNCIA ESTUDANTIL
+Trabalho com objetivo de avaliação da disciplina de banco de dados 1, do Insitituto Federal do Espirito Santo.
 
 # Sumário
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-Brenno Milanezi:milanezibrenno@gmail.com<br>
-Luiz Antonio Guzzo:luizguzzo@gmail.com<br>
-Caio Pupolin:pupolinantoniocaio@gmail.com<br>
-Lucas Sabino:contato@lucassabino.com<br>
+Antonio Carlos Lemos Junior: <br>
+Landerson Morais Alexandre: <br>
+Lucas Oliveira Garcia: <br>
+Paulo Ricardo Viana Ferreira: paulo_ricardosf@outlook.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
